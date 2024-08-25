@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.m~
+*.mlx~
+*.mlappinstall
+*.mlpkginstall
+*.mltbx
+*.mlproj
+*.mldatx
+*.p
+*.slxc
+*.autosave
+*.mdl.autosave
+*.slx.autosave
+*.mlproj.bk
+*.mlproj.autosave
+*.mldatx.bk
+*.mldatx.autosave
+
+
