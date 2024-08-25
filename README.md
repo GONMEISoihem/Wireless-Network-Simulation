@@ -32,4 +32,4 @@ This project is a completed baseline simulation of typical multicell wireless ne
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wireless-network-simulation.git
+   git clone https://github.com/GONMEISoihem/Wireless-Network-Simulation.git
