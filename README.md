@@ -33,3 +33,5 @@ This project is a completed baseline simulation of typical multicell wireless ne
 1. Clone the repository:
    ```bash
    git clone https://github.com/GONMEISoihem/Wireless-Network-Simulation.git
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
